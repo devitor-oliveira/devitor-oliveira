@@ -17,25 +17,11 @@ Learning DevOps basics with Coolify, Docker, Docker-Compose, Self-hosting.
 
 Open-source, Frontend, Backend, DevOps, AI, JavaScript, Typescript, NodeJS, NextJs, DevOps, Docker.
 
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'devitor-oliveira' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devitor-oliveira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'devitor-oliveira' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devitor-oliveira&layout=compact&langs_count=10&theme=default"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'devitor-oliveira' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devitor-oliveira&theme=default&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
