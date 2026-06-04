@@ -1,67 +1,56 @@
-# Hi 👋, I'm Vitor Oliveira
+<p align="right">
+  <a href="./README.md">🇺🇸 English</a> | 
+  <a href="./README.pt-br.md">🇧🇷 Português</a>
+</p>
 
-**Full stack Dev trying to understand everything!**
+# Hi, I'm Vitor Hugo 👍
 
-## 🔭 I'm currently working on
+## Full Stack Developer & Business and Process Automation.
 
-Working at MasterClassic Seguros participating on Digital Transformation, integrating APIs and Systems, creating automation with N8N to attend other sectors demands.
+My main tech stack is **React**, **TypeScript**, and **Next.js**. I also work with **Fastify**, **Tailwind CSS**, and **AI solutions**.
 
-## 🌱 I'm currently learning
+Currently, I'm working on side projects and doing freelance work.
 
-Learning about AI applications and technology to transform in real useful software.
-Learning about NextJS, React, Typescript to build web applications.
-Learning and applying programming concepts in automations with low code tools like N8N.
-Learning DevOps basics with Coolify, Docker, Docker-Compose, Self-hosting.
+* 🧠 I'm currently learning and practicing backend concepts, as well as reinforcing Algorithms and Data Structures.
 
-## 👀 I'm interested in
+### Languages & Techs
 
-Open-source, Frontend, Backend, DevOps, AI, JavaScript, Typescript, NodeJS, NextJs, DevOps, Docker.
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" style="margin-right: 15px;" /></a>
+ 
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" style="margin-right: 15px;" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" style="margin-right: 15px;" /></a>
+</p>
 
-## 🔝 Most Used Languages
+### Socials
 
-<!-- ⚠️ Important: Replace 'devitor-oliveira' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devitor-oliveira&layout=compact&langs_count=10&theme=default"/>
-</div>
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> 
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> 
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
-
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-guedesdev) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/devitor-oliveira) 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="left">
-
-📧 **Email:** [vitoroliveira.guedes@outlook.com](mailto:vitoroliveira.guedes@outlook.com)
-
-</div>
-
----
-⭐️ From [Vitor Oliveira](https://github.com/devitor-oliveira)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/devitor-oliveira/count.svg" alt="Visitor Count" />
-</div>
+<p align="left">
+  <a href="https://www.github.com/devitor-oliveira" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" style="margin-right: 10px;" />
+    </picture>
+  </a>
+  <a href="http://www.medium.com/@devitoroliveira" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" style="margin-right: 10px;" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-guedesdev" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
+</p>
