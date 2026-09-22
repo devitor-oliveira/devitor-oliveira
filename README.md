@@ -20,8 +20,6 @@
   - I'm currently diving deeper into computer science fundamentals.
 </p>
 
-<br />
-
 <h3>🛠️ Tech</h3>
 
 <p align="left">
@@ -40,8 +38,6 @@
   <code>REST APIs</code>
   <code>Coolify</code>
 </p>
-
-<br />
 
 <h3>📚 Currently</h3>
 
