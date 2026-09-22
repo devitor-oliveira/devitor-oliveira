@@ -15,8 +15,8 @@
 
    A few things about me
 
-  - I'm got into programming before AI boom.
-  - I like to explore programming languages and share what i learned.
+  - I got into programming before AI boom.
+  - I enjoy to explore programming languages and share what i learned.
   - I'm currently diving deeper into computer science fundamentals.
 </p>
 
