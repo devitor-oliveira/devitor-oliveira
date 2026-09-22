@@ -22,7 +22,7 @@
 
 <br />
 
-<h2>🛠️ Tech</h2>
+<h3>🛠️ Tech</h3>
 
 <p align="left">
   <img
@@ -31,18 +31,19 @@
   />
 </p>
 
-## 🔧 Tools & Technologies
+### 🔧 Tools & Technologies
 
 <p align="left">
   <code>Fastify</code>
   <code>Supabase</code>
   <code>n8n</code>
   <code>REST APIs</code>
+  <code>Coolify</code>
 </p>
 
 <br />
 
-<h2>📚 Currently</h2>
+<h3>📚 Currently</h3>
 
 <p align="left">
   Deepening my knowledge of backend engineering, software architecture,
@@ -51,7 +52,7 @@
 
 <br />
 
-<h2>🔗 Find me</h2>
+<h3>🔗 Find me</h3>
 
 <p align="left">
   <a href="https://vitorhugodev.com">Portfolio</a>
